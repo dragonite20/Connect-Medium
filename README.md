@@ -1,4 +1,4 @@
-# Connect Medium
+# Devconnector
 
 Small social network app built with the MERN stack. Users Login ,Like posts , share and comment as well as follow their favorite developers.
 It uses Jwt and passport.js for authentication , react to build front end components ,express to run serverside code and mongoose ORM to connect to a Mongodb databse.
